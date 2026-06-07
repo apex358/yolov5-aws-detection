@@ -1,7 +1,6 @@
 # YOLOv5 AWS Object Detection System
 
 **Student:** Mohamadu Hanifa Mohamadu Hamas  
-**Student Number:** apex358  
 **Course:** ITC5205 — Assignment 2
 
 ---
